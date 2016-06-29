@@ -11,7 +11,7 @@
 
   <groupId>com.squareup.pagerduty</groupId>
   <artifactId>apigee-pagerduty-incidents</artifactId>
-  <version>2.0.0</version>
+  <version>2.0.1-SNAPSHOT</version>
 
   <name>Forked - PagerDuty Incidents</name>
   <description>Forked -Java utility for programmatically triggering and resolving PagerDuty incidents.</description>
@@ -28,7 +28,7 @@
     <url>http://github.com/ntulachan/pagerduty-incidents/</url>
     <connection>scm:git:git://github.com/ntulachan/pagerduty-incidents.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/ntulachan/pagerduty-incidents.git</developerConnection>
-    <tag>v2.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <issueManagement>
